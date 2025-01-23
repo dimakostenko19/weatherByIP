@@ -10,4 +10,4 @@
 Для обхода ограничений CORS и получения данных с API meteosource используется [cors-anywhere](https://cors-anywhere.herokuapp.com/corsdemo).
 
 #### Screenshot
-![image](https://github.com/user-attachments/assets/8ad73c0f-683e-497c-813d-701389a4c8e0)
+![weather git](https://github.com/user-attachments/assets/fdb95e20-5602-4bb7-8b36-578219ad24a7)
