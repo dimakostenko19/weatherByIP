@@ -8,3 +8,6 @@
 
 ### CORS problem solving
 Для обхода ограничений CORS и получения данных с API meteosource используется [cors-anywhere](https://cors-anywhere.herokuapp.com/corsdemo).
+
+#### Screenshot
+![image](https://github.com/user-attachments/assets/8ad73c0f-683e-497c-813d-701389a4c8e0)
